@@ -1,4 +1,4 @@
-Проект развернут на сайте employees.andreiikachanov.ru
+Проект развернут на сайте https://employees.andreiikachanov.ru
 
 Для выполнения использовался фреймворк Symfony 3.4.9
 
